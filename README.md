@@ -1,4 +1,4 @@
-# SMS Spam Classifier 📱📩
+# SMS Spam Ham Classifier 📱📩
 
 This project implements a machine learning model to classify SMS messages as **spam** or **ham (not spam)** using the **Naive Bayes algorithm**. The dataset consists of labeled SMS messages, and the model uses text preprocessing and vectorization techniques to transform messages into numerical form before classification.
 
